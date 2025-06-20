@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 7308
+# 规则统计: 7309
 
 HOST,cloud.oracle.com,Global
 HOST,steambroadcast.akamaized.net,Global
@@ -2092,6 +2092,7 @@ HOST-SUFFIX,fontsource.org,Global
 HOST-SUFFIX,foolsmountain.com,Global
 HOST-SUFFIX,fooooo.com,Global
 HOST-SUFFIX,footwiball.com,Global
+HOST-SUFFIX,forbes.com,Global
 HOST-SUFFIX,foreignaffairs.com,Global
 HOST-SUFFIX,foreignpolicy.com,Global
 HOST-SUFFIX,form.new,Global

@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31791
+# 规则统计: 31793
 
 HOST,1password.drift.click,GlobalMax
 HOST,adobeereg.com,GlobalMax
@@ -25876,6 +25876,7 @@ HOST-SUFFIX,storify.com,GlobalMax
 HOST-SUFFIX,storj.io,GlobalMax
 HOST-SUFFIX,storm.mg,GlobalMax
 HOST-SUFFIX,stormmediagroup.com,GlobalMax
+HOST-SUFFIX,storry.tv,GlobalMax
 HOST-SUFFIX,storyful.com,GlobalMax
 HOST-SUFFIX,stourbridge.ac.uk,GlobalMax
 HOST-SUFFIX,stow.ac.uk,GlobalMax
@@ -29359,6 +29360,7 @@ HOST-SUFFIX,w-pool.com,GlobalMax
 HOST-SUFFIX,w.org,GlobalMax
 HOST-SUFFIX,w.wiki,GlobalMax
 HOST-SUFFIX,w3.org,GlobalMax
+HOST-SUFFIX,w3s.link,GlobalMax
 HOST-SUFFIX,w3schools.com,GlobalMax
 HOST-SUFFIX,w6un.com,GlobalMax
 HOST-SUFFIX,wa.me,GlobalMax
