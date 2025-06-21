@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 7309
+# 规则统计: 7310
 
 HOST,cloud.oracle.com,Global
 HOST,steambroadcast.akamaized.net,Global
@@ -322,6 +322,7 @@ HOST-SUFFIX,amoiist.com,Global
 HOST-SUFFIX,amplitude.com,Global
 HOST-SUFFIX,ampproject.org,Global
 HOST-SUFFIX,amtb-taipei.org,Global
+HOST-SUFFIX,amuletmc.com,Global
 HOST-SUFFIX,anchor.fm,Global
 HOST-SUFFIX,anchorfree.com,Global
 HOST-SUFFIX,ancsconf.org,Global
