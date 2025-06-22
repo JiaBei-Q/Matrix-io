@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31793
+# 规则统计: 31795
 
 no_resolve: true
 domain_set:
@@ -1775,6 +1775,7 @@ domain_suffix_set:
   - amsterdamhotescort.com
   - amsterdamluxescort.com
   - amtb-taipei.org
+  - amuletmc.com
   - amytele.com
   - amzn.asia
   - amzn.com
@@ -21719,6 +21720,7 @@ domain_suffix_set:
   - piapp.com.tw
   - piapro.net
   - picacg2022.com
+  - picacgy.com
   - picacn.xyz
   - picacomic.com
   - picacomic.xyz

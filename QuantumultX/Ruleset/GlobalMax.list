@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31793
+# 规则统计: 31795
 
 HOST,1password.drift.click,GlobalMax
 HOST,adobeereg.com,GlobalMax
@@ -1772,6 +1772,7 @@ HOST-SUFFIX,ams02.space,GlobalMax
 HOST-SUFFIX,amsterdamhotescort.com,GlobalMax
 HOST-SUFFIX,amsterdamluxescort.com,GlobalMax
 HOST-SUFFIX,amtb-taipei.org,GlobalMax
+HOST-SUFFIX,amuletmc.com,GlobalMax
 HOST-SUFFIX,amytele.com,GlobalMax
 HOST-SUFFIX,amzn.asia,GlobalMax
 HOST-SUFFIX,amzn.com,GlobalMax
@@ -21716,6 +21717,7 @@ HOST-SUFFIX,piaotian.net,GlobalMax
 HOST-SUFFIX,piapp.com.tw,GlobalMax
 HOST-SUFFIX,piapro.net,GlobalMax
 HOST-SUFFIX,picacg2022.com,GlobalMax
+HOST-SUFFIX,picacgy.com,GlobalMax
 HOST-SUFFIX,picacn.xyz,GlobalMax
 HOST-SUFFIX,picacomic.com,GlobalMax
 HOST-SUFFIX,picacomic.xyz,GlobalMax
