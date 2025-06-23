@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 7310
+# 规则统计: 7315
 
 HOST,cloud.oracle.com,Global
 HOST,steambroadcast.akamaized.net,Global
@@ -441,6 +441,7 @@ HOST-SUFFIX,artofpeacefoundation.org,Global
 HOST-SUFFIX,artstation.com,Global
 HOST-SUFFIX,artsy.net,Global
 HOST-SUFFIX,arunachalforests.gov.in,Global
+HOST-SUFFIX,arvanstorage.ir,Global
 HOST-SUFFIX,asacp.org,Global
 HOST-SUFFIX,asdfg.jp,Global
 HOST-SUFFIX,asg.to,Global
@@ -2730,6 +2731,7 @@ HOST-SUFFIX,gotgeeks.com,Global
 HOST-SUFFIX,gotquestions.org,Global
 HOST-SUFFIX,gotrusted.com,Global
 HOST-SUFFIX,gotw.ca,Global
+HOST-SUFFIX,gov.ir,Global
 HOST-SUFFIX,gov.taipei,Global
 HOST-SUFFIX,gov.tw,Global
 HOST-SUFFIX,gr8domain.biz,Global
@@ -3288,8 +3290,10 @@ HOST-SUFFIX,ipredator.se,Global
 HOST-SUFFIX,iptv.com.tw,Global
 HOST-SUFFIX,iptvbin.com,Global
 HOST-SUFFIX,ipvanish.com,Global
+HOST-SUFFIX,irangov.ir,Global
 HOST-SUFFIX,iredmail.org,Global
 HOST-SUFFIX,irib.ir,Global
+HOST-SUFFIX,irna.ir,Global
 HOST-SUFFIX,ironpython.net,Global
 HOST-SUFFIX,ironsocket.com,Global
 HOST-SUFFIX,is-a-hunter.com,Global
@@ -4833,6 +4837,7 @@ HOST-SUFFIX,premeforwindows7.com,Global
 HOST-SUFFIX,premproxy.com,Global
 HOST-SUFFIX,presentation.new,Global
 HOST-SUFFIX,presentationzen.com,Global
+HOST-SUFFIX,president.ir,Global
 HOST-SUFFIX,presidentlee.tw,Global
 HOST-SUFFIX,prestige-av.com,Global
 HOST-SUFFIX,pride.google,Global
