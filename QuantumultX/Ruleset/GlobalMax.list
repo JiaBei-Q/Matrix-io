@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31795
+# 规则统计: 31800
 
 HOST,1password.drift.click,GlobalMax
 HOST,adobeereg.com,GlobalMax
@@ -2481,6 +2481,7 @@ HOST-SUFFIX,aru.ac.uk,GlobalMax
 HOST-SUFFIX,arukas.io,GlobalMax
 HOST-SUFFIX,arunachalforests.gov.in,GlobalMax
 HOST-SUFFIX,arupoc.ac.uk,GlobalMax
+HOST-SUFFIX,arvanstorage.ir,GlobalMax
 HOST-SUFFIX,arxiv.org,GlobalMax
 HOST-SUFFIX,arzon.jp,GlobalMax
 HOST-SUFFIX,as-hp.ca,GlobalMax
@@ -12297,6 +12298,7 @@ HOST-SUFFIX,gotrusted.com,GlobalMax
 HOST-SUFFIX,gotw.ca,GlobalMax
 HOST-SUFFIX,gouhuo.qq.com,GlobalMax
 HOST-SUFFIX,gouri.xyz,GlobalMax
+HOST-SUFFIX,gov.ir,GlobalMax
 HOST-SUFFIX,gov.taipei,GlobalMax
 HOST-SUFFIX,gov.tw,GlobalMax
 HOST-SUFFIX,governmentengineer.com,GlobalMax
@@ -15075,6 +15077,7 @@ HOST-SUFFIX,iqiyiavlive.buzz,GlobalMax
 HOST-SUFFIX,iqq2.cc,GlobalMax
 HOST-SUFFIX,iqq3.cc,GlobalMax
 HOST-SUFFIX,iqqtv.net,GlobalMax
+HOST-SUFFIX,irangov.ir,GlobalMax
 HOST-SUFFIX,iranianboobs.com,GlobalMax
 HOST-SUFFIX,iranlms.ir,GlobalMax
 HOST-SUFFIX,iransextv.com,GlobalMax
@@ -15088,6 +15091,7 @@ HOST-SUFFIX,irib.ir,GlobalMax
 HOST-SUFFIX,iridiumbrowser.de,GlobalMax
 HOST-SUFFIX,iris.ac.uk,GlobalMax
 HOST-SUFFIX,iriss.ac.uk,GlobalMax
+HOST-SUFFIX,irna.ir,GlobalMax
 HOST-SUFFIX,iromod91.info,GlobalMax
 HOST-SUFFIX,ironna.jp,GlobalMax
 HOST-SUFFIX,ironpython.net,GlobalMax
@@ -22522,6 +22526,7 @@ HOST-SUFFIX,prescribingsafetyassessment.ac.uk,GlobalMax
 HOST-SUFFIX,presentation.new,GlobalMax
 HOST-SUFFIX,presentationzen.com,GlobalMax
 HOST-SUFFIX,presidencylondoncollege.ac.uk,GlobalMax
+HOST-SUFFIX,president.ir,GlobalMax
 HOST-SUFFIX,presidentlee.tw,GlobalMax
 HOST-SUFFIX,press.vin,GlobalMax
 HOST-SUFFIX,prestige-av.com,GlobalMax
