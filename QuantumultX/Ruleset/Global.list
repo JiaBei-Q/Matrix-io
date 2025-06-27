@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 7315
+# 规则统计: 7316
 
 HOST,cloud.oracle.com,Global
 HOST,steambroadcast.akamaized.net,Global
@@ -4977,6 +4977,7 @@ HOST-SUFFIX,radioline.co,Global
 HOST-SUFFIX,radiotime.com,Global
 HOST-SUFFIX,radiovaticana.org,Global
 HOST-SUFFIX,radiovncr.com,Global
+HOST-SUFFIX,radmin-vpn.com,Global
 HOST-SUFFIX,rael.org,Global
 HOST-SUFFIX,raggedbanner.com,Global
 HOST-SUFFIX,raidcall.com.tw,Global
