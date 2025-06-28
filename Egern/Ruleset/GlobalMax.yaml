@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 31800
+# 规则统计: 31801
 
 no_resolve: true
 domain_set:
@@ -23033,6 +23033,7 @@ domain_suffix_set:
   - radiovaticana.org
   - radiovncr.com
   - radiyoyacuvoa.com
+  - radmin-vpn.com
   - rae.ac.uk
   - rael.org
   - raft.ac.uk
