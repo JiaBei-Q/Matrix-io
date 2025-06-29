@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 7316
+# 规则统计: 7317
 
 HOST,cloud.oracle.com,Global
 HOST,steambroadcast.akamaized.net,Global
@@ -3213,6 +3213,7 @@ HOST-SUFFIX,imb.org,Global
 HOST-SUFFIX,imdb.com,Global
 HOST-SUFFIX,img.dlsite.jp,Global
 HOST-SUFFIX,img.ly,Global
+HOST-SUFFIX,img.picgo.net,Global
 HOST-SUFFIX,imgasd.com,Global
 HOST-SUFFIX,imgchili.net,Global
 HOST-SUFFIX,imgmega.com,Global
