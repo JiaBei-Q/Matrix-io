@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 7317
+# 规则统计: 7318
 
 HOST,cloud.oracle.com,Global
 HOST,steambroadcast.akamaized.net,Global
@@ -1619,6 +1619,7 @@ HOST-SUFFIX,dongyangjing.com,Global
 HOST-SUFFIX,donmai.us,Global
 HOST-SUFFIX,dontfilter.us,Global
 HOST-SUFFIX,dontmovetochina.com,Global
+HOST-SUFFIX,doom9.org,Global
 HOST-SUFFIX,doosho.com,Global
 HOST-SUFFIX,doourbest.org,Global
 HOST-SUFFIX,dorjeshugden.com,Global
