@@ -3,10 +3,12 @@
   "rules": [
     {
       "domain_suffix": [
-        "tap.io",
         "tapimg.com",
+        "tapimg.net",
+        "taptap.cn",
         "taptap.com",
-        "taptap.tw"
+        "taptap.io",
+        "taptapdada.com"
       ]
     }
   ]

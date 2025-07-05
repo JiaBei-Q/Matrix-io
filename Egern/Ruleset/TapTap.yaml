@@ -1,8 +1,10 @@
 # 规则名称: TapTap
-# 规则统计: 4
+# 规则统计: 6
 
 domain_suffix_set:
-  - tap.io
   - tapimg.com
+  - tapimg.net
+  - taptap.cn
   - taptap.com
-  - taptap.tw
+  - taptap.io
+  - taptapdada.com

@@ -1,7 +1,9 @@
 # 规则名称: TapTap
-# 规则统计: 4
+# 规则统计: 6
 
-HOST-SUFFIX,tap.io,TapTap
 HOST-SUFFIX,tapimg.com,TapTap
+HOST-SUFFIX,tapimg.net,TapTap
+HOST-SUFFIX,taptap.cn,TapTap
 HOST-SUFFIX,taptap.com,TapTap
-HOST-SUFFIX,taptap.tw,TapTap
+HOST-SUFFIX,taptap.io,TapTap
+HOST-SUFFIX,taptapdada.com,TapTap
