@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 7318
+# 规则统计: 7319
 
 HOST,cloud.oracle.com,Global
 HOST,steambroadcast.akamaized.net,Global
@@ -1719,6 +1719,7 @@ HOST-SUFFIX,e-info.org.tw,Global
 HOST-SUFFIX,e-traderland.net,Global
 HOST-SUFFIX,e-zone.com.hk,Global
 HOST-SUFFIX,e123.hk,Global
+HOST-SUFFIX,e621.net,Global
 HOST-SUFFIX,earlytibet.com,Global
 HOST-SUFFIX,earthcam.com,Global
 HOST-SUFFIX,earthvpn.com,Global
