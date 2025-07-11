@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       TZ: "Asia/Shanghai"
-      SING_BOX_VERSION: 1.11.14
+      SING_BOX_VERSION: 1.11.15
     steps: 
       - name: Checkout Repository
         uses: actions/checkout@v4.2.2
