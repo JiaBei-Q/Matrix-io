@@ -8,13 +8,10 @@ socks_port: 8300     # SOCKS 代理端口
 
 # [通用设置]
 ipv6: false          # 启用IPv6
-vif_only: true       # 接管模式
+vif_only: true       # 代理模式
 compat_route: false  # 兼容模式
-hide_vpn_icon: false # 图标隐藏
 direct_latency_test_url: http://taobao.com/
 proxy_latency_test_url: http://cp.cloudflare.com/generate_204
-
-# [GEO设置]
 geoip_db_url: https://github.com/Masaiki/GeoIP2-CN/raw/release/Country.mmdb
 
 # [DNS设置]
@@ -283,3 +280,6 @@ rules:
 # [MITM]
 mitm:
   enabled: true
+  hostnames:
+    excludes:
+      - buy.itunes.apple.com
